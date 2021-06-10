@@ -1,4 +1,4 @@
-db_name = zenport
+db_name = supplychain
 postgres_user = root
 postgres_password = secret
 postgres_port = 5432
